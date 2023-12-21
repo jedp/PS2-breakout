@@ -15,4 +15,5 @@ Test points:
 
 Supports Dualport on PS/2 1 when CLK and DATA are bridged.
 
+![PCB Image](pcb.png)
 
